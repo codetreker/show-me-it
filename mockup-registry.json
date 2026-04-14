@@ -1,0 +1,16 @@
+{
+  "projects": {
+    "societas": {
+      "label": "Societas (Office Agent)",
+      "mockups": {
+        "agent-dashboard": {
+          "label": "Agent Dashboard",
+          "description": "主控面板，展示 agent 运行状态",
+          "author": "战马",
+          "date": "2026-04-14",
+          "status": "draft"
+        }
+      }
+    }
+  }
+}
