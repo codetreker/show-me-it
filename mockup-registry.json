@@ -11,6 +11,39 @@
           "status": "draft"
         }
       }
+    },
+    "syntrix": {
+      "label": "Syntrix Admin Console",
+      "mockups": {
+        "dashboard": {
+          "label": "Dashboard",
+          "description": "实例状态总览：服务健康、数据库数量、用户数、请求量",
+          "author": "飞马",
+          "date": "2026-04-14",
+          "status": "draft"
+        },
+        "users": {
+          "label": "User Management",
+          "description": "用户列表、创建、角色管理、禁用",
+          "author": "飞马",
+          "date": "2026-04-14",
+          "status": "draft"
+        },
+        "databases": {
+          "label": "Database Management",
+          "description": "数据库列表、创建、配额、状态管理",
+          "author": "飞马",
+          "date": "2026-04-14",
+          "status": "draft"
+        },
+        "data-browser": {
+          "label": "Data Browser",
+          "description": "按集合浏览文档、查看/编辑 JSON、CRUD 操作",
+          "author": "飞马",
+          "date": "2026-04-14",
+          "status": "draft"
+        }
+      }
     }
   }
 }

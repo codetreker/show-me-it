@@ -6,4 +6,4 @@
 | ID | 任务 | 状态 | Owner | PR |
 |----|------|------|-------|----|
 | SMI-001 | Phase 1: 项目结构 + 动态路由 + 注册表 + 首页索引 + 示例 mockup | done | 飞马 | 84948ea |
-| SMI-002 | Phase 2: Cloudflare 反代 + Caddy 配置 + 部署上线 | in-progress | 战马 | — |
+| SMI-002 | Phase 2: Caddy 反代 + DNS + 部署上线 (mockup.codetrek.work) | done | 飞马 | — |
